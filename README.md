@@ -1,6 +1,6 @@
 # Evidencias-Flutter
 
-En este repositorio se podra encontras las evidencias  con la ayuda de flutter:
+En este repositorio se podra encontrar las evidencias  con la ayuda de flutter:
 
 🔴Evidencia Palabras
 
