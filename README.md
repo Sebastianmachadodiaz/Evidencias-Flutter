@@ -36,7 +36,7 @@ redirigimiento de las palabras a una seccion de favoritos:
 
 En esta evidencia se puede ver la primera version de la galeria que cuenta 
 
-con un total de 4 fotos con una margen predeterminada y ceunta con su respectivo
+con un total de 4 fotos con una margen predeterminada y cuenta con su respectivo
 
 responsive:
 
@@ -58,7 +58,7 @@ imagenes cuanta con su respectivo responsive y con un menu desplegable:
 
 🟢PORTAFOLIO
 
-Esta envidencia con tiene llamada portafolio contiene un alista de productos con 10 
+Esta envidencia  llamada portafolio contiene una lista de productos con 10 
 
 productos los cuales contiene su breve descripcion y cuenta
 
@@ -99,9 +99,9 @@ Esta evidencia del carrito de compras como su nombre lo dice es un proyecto el c
 
 productos los cuales cuentan con sus respectivos precios y cuenta con la funcion de agregar los productos 
 
-a la seccion de compra donde cuanta con la funcionalidad de incrementar o decrementar el numero de 
+a la seccion de compra donde cuenta con la funcionalidad de incrementar o decrementar el numero de 
 
-productos por producto y de esa manera imprimiendo el total y e pago de iva:
+productos por producto y de esa manera imprimiendo el total y el pago de iva:
 
 ![Captura12](https://user-images.githubusercontent.com/111257572/208967698-64c930ba-c937-4c9e-a1fc-b8e7e6430ae8.PNG)
 
