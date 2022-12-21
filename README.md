@@ -111,6 +111,39 @@ productos por producto y de esa manera imprimiendo el total y el pago de iva:
 
 🟢LOGIN
 
+Esta evidencia llamada login es un proyecto el cual consiste en poder tener un inicio de sesion o la opcion de registrarse
+
+para lograr iniciar sesion y todos estos datos llevados a nuestra base de datos la cual fue creada por medio de
+
+firebase obviamente creando  proyecto y siguiendo una serie de pasos para ello
+
+tambien el proyecto cuenta con la funcion de restablecimiento de cuenta el cual sera enviado al correo electronico(gmail)
+
+donde fue creada la cuenta:
+
+🔴Registro de la cuenta
+
+![Captura](https://user-images.githubusercontent.com/111257572/208984997-492f6788-5410-4556-a266-3b4537d6b18c.PNG)
+
+🔴Inicio de Sesion
+
+![captura26](https://user-images.githubusercontent.com/111257572/208985342-3a6ce3c8-e774-41ee-b74a-26569f42fcb6.PNG)
+
+🔴Cuentas registradas
+
+![Captura25](https://user-images.githubusercontent.com/111257572/208985691-35c45030-d6d4-4169-9359-02fcf44406ff.PNG)
+
+🔴Restablecimiento de contraseña
+
+![Captura27](https://user-images.githubusercontent.com/111257572/208985962-931a2ee8-0766-46d9-b139-f523b63a673d.PNG)
+
+🔴Correo enviado del restablecimiento de contraseña
+
+![Captura28](https://user-images.githubusercontent.com/111257572/208986346-a970a162-285d-440c-8573-7672ee70c31a.PNG)
+
+
+
+
 
 
 
