@@ -1,6 +1,6 @@
 # Evidencias-Flutter
 
-En este repositorio se podra encontras las evidencias sobre con la ayuda de flutter:
+En este repositorio se podra encontras las evidencias  con la ayuda de flutter:
 
 🔴Evidencia Palabras
 
@@ -74,6 +74,48 @@ con un carrito de compras con 3 productos prederteminados
 🔴Seleccion de Producto
 
 ![Captura8](https://user-images.githubusercontent.com/111257572/208958567-4b4333d6-4332-4b28-9f60-d85769c5d5d0.PNG)
+
+🟢DASHBOARD
+
+En este ejercicio se puede ver a detalle un estilo de pagina publicitaria de automoviles
+
+que cuenta con un menu desplegable con su respectivo responsive
+
+su debido scroll en la parte de los vehiculos(productos) y sus iconos de contacto:
+
+![Captura9](https://user-images.githubusercontent.com/111257572/208961921-a95e9e90-c679-4348-8bbe-7da9eeb815bd.PNG)
+
+🔴Responsi
+
+![Captura10](https://user-images.githubusercontent.com/111257572/208965048-c4ddce2f-5d36-460e-bf46-c767b6284c92.PNG)
+
+🔴Responsi-Menu desplegable
+
+![Captura11](https://user-images.githubusercontent.com/111257572/208965766-bab5931f-911e-47e0-aa9c-3d0b1d05f9f6.PNG)
+
+🟢CARRITO DE COMPRAS
+
+Esta evidencia del carrito de compras como su nombre lo dice es un proyecto el cual cuenta con un total de 5 
+
+productos los cuales cuentan con sus respectivos precios y cuenta con la funcion de agregar los productos 
+
+a la seccion de compra donde cuanta con la funcionalidad de incrementar o decrementar el numero de 
+
+productos por producto y de esa manera imprimiendo el total y e pago de iva:
+
+![Captura12](https://user-images.githubusercontent.com/111257572/208967698-64c930ba-c937-4c9e-a1fc-b8e7e6430ae8.PNG)
+
+🔴Seccion de Compra
+
+![Captura12](https://user-images.githubusercontent.com/111257572/208969170-ab2ae4ae-bd32-41ae-a689-ac1c4dc4c42d.PNG)
+
+🟢LOGIN
+
+
+
+
+
+
 
 
 
